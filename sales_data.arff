@@ -1,0 +1,18 @@
+@relation sales
+
+@attribute AdvertisingCost numeric
+@attribute Revenue numeric
+
+@data
+1000,5000
+1200,5500
+1300,6000
+1100,5200
+1050,5100
+1150,5300
+1250,5800
+1350,6000
+1400,6200
+1500,6500
+1600,6800
+1800,7000
